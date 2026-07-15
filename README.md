@@ -58,8 +58,8 @@ Overview Dashboard
 <img width="1312" height="738" alt="Screenshot 2026-07-15 200149" src="https://github.com/user-attachments/assets/8ab903e9-3fbe-4654-9706-537850ec109c" />
 
 
-👩‍💻 Author
+👩‍💻 Author               
 
-Mansi Sahagal
-🎓 B.Tech CSE Student
-💻 Aspiring Data Analyst & Power BI Developer
+Mansi Sahagal                     
+🎓 B.Tech CSE Student                     
+💻 Aspiring Data Analyst & Power BI Developer             
